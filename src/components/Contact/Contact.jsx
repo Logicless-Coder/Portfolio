@@ -50,14 +50,20 @@ const Contact = () => {
 				</div>
 			</div>
 			<div className='socials'>
-				<a id='github' href='https://github.com/Logicless-Coder'></a>
+				<a id='github' href='https://github.com/Logicless-Coder'>
+					{""}
+				</a>
 				<a
 					id='linkedin'
-					href='https://www.linkedin.com/in/abhishek-rathore-61668619a/'></a>
-				<a
-					id='instagram'
-					href='https://www.instagram.com/its.the.abhishek/'></a>
-				<a id='whatsapp' href='https://wa.me/919770932029'></a>
+					href='https://www.linkedin.com/in/abhishek-rathore-61668619a/'>
+					{""}
+				</a>
+				<a id='instagram' href='https://www.instagram.com/its.the.abhishek/'>
+					{""}
+				</a>
+				<a id='whatsapp' href='https://wa.me/919770932029'>
+					{""}
+				</a>
 			</div>
 		</div>
 	);

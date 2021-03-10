@@ -1,0 +1,30 @@
+.page-not-found {
+	width: 70%;
+	height: 100%;
+	margin: 1rem auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.message {
+	font-size: 3rem;
+	text-align: center;
+	font-weight: 600;
+	color: #1d3557;
+}
+
+.message a {
+	text-decoration: none;
+	color: #457b9d;
+}
+
+.art {
+	width: 70%;
+	margin: 4rem auto;
+	height: 600px;
+	background-image: url("./page_not_found.svg");
+	background-repeat: no-repeat;
+	background-size: contain;
+}
